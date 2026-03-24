@@ -1,7 +1,10 @@
 [project]
 name = "vmls-python"
 version = "0.1.0"
-description = "Add your description here"
+description = "Introduction to Applied Linear Algebra: Vectors, Matrices, and Least Squares"
+authors = [
+    { name = "Stephen P. Boyd" },
+    { name = "Lieven Vandenberghe" } ]
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
